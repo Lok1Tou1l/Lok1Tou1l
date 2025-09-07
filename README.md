@@ -1,6 +1,6 @@
 # 💫 About Me
 👋 Hey, I'm Loki Touil  
-🎓 Master's student in AI @ Chadli Bendjedid University  
+🎓 Master Degree in AI 
 🎮 Game Developer (Unity) | 💻 Software & AI Engineer
 
 ## 🌐 Connect with Me
